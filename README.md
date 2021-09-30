@@ -1,5 +1,13 @@
-### Hi there 👋
+# Hello everyone 🌎, I am Josué Ávalos👦
 
+## 💻I am learning
+  JS, CSS AND HTML5
+
+## 👨‍💻Tools and languages
+
+## 📱My contact networks
+- Website - https://github.com/Ezejosue?tab=repositories
+- Instagram - [@aezeq](https://www.instagram.com/aezequiel11/)
 <!--
 **Ezejosue/Ezejosue** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
