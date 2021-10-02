@@ -2,7 +2,7 @@
 
 ##### About me:
 
-- 🎓Recent computer science graduate from UNC - Chapel Hill
+- 🎓I am currently studying an engineering degree in computer science
 - 🎶I love music of all kinds
 - 👨‍💻Coming soon a professional in cybersecurity
 
