@@ -90,17 +90,6 @@
 
 </p>        
 
-### 💡 Projects
-- **[Financial Control App](https://github.com/Ezejosue/Financial-Control-App)**: A web application for tracking income and expenses.
-- **[Inventory Management System](https://github.com/Ezejosue/Inventory-Management-System)**: An API for managing inventory, sales, and clients.
-- **[RSMChallengeAPI](https://github.com/Ezejosue/RSMChallengeAPI)**: An API for AdventureWorks database.
-
-<!--profile visit count-->
-<div align="center">
-  
-[![](https://visitcount.itsvg.in/api?id=Ezejosue&icon=3&color=6)](https://visitcount.itsvg.in)
-  
-</div>
 
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
