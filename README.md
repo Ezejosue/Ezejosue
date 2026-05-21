@@ -1,95 +1,103 @@
-<!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<!--h1 without bottom border-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h1 style="display: inline-block">Hello everyone 🌎, I'm Josué Ávalos 🎉</h1></summary>
-  </ul>
-</div>
-
-<!--- snake -->
 <div align="center">
-  <img src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/grid-snake.svg" alt="snake" />
+  <h1>Hi, I'm Josué Ávalos <img src="https://www.ezedeveloper.com/logo.svg" height="35" /></h1>
+  <h3>Software Engineer · Full-Cycle Developer · Freelancer</h3>
+  <p>
+    Computer Science Engineer who takes products from zero to production — <br>
+    requirements, architecture, development, testing, deployment and support. <br>
+    Freelancer by choice, self-taught by passion. Music and cinema are my recharge.
+  </p>
 </div>
 
-<!--h2 without bottom border-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">Backend Developer and Technology Enthusiast</h2></summary>
-  </ul>
-</div>
+---
 
 ### 👨‍💻 About Me
 
-- 🌟 Backend Developer
-- 🎶 Music enthusiast of all kinds
-- 🎬 Cinema lover
-- 📚 Passionate about learning new technologies
+- 🎓 B.Sc. in Computer Science Engineering
+- 🏢 Solo engineer at a company — I own the full cycle: planning, dev, QA, deploy & support
+- 🚀 Freelancer building products for clients end-to-end
+- 📚 Continuously self-taught — always exploring what's next
+- 🎶 Music enthusiast · 🎬 Cinema lover
+
+---
 
 ### 🛠️ Tech Stack
 
 #### Languages
-![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
-![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
-![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
-![SQL](https://img.shields.io/badge/-SQL-333333?style=flat&logo=postgresql)
-![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
-![C#](https://img.shields.io/badge/-C%23-333333?style=flat&logo=c-sharp)
-![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=java)
+![TypeScript](https://img.shields.io/badge/-TypeScript-0d1117?style=flat-square&logo=typescript)
+![JavaScript](https://img.shields.io/badge/-JavaScript-0d1117?style=flat-square&logo=javascript)
+![Python](https://img.shields.io/badge/-Python-0d1117?style=flat-square&logo=python)
+![C#](https://img.shields.io/badge/-C%23-0d1117?style=flat-square&logo=csharp)
+![Java](https://img.shields.io/badge/-Java-0d1117?style=flat-square&logo=openjdk)
+![SQL](https://img.shields.io/badge/-SQL-0d1117?style=flat-square&logo=postgresql)
+![HTML5](https://img.shields.io/badge/-HTML5-0d1117?style=flat-square&logo=html5)
+![CSS3](https://img.shields.io/badge/-CSS3-0d1117?style=flat-square&logo=css3&logoColor=1572B6)
 
-#### Tools and Frameworks
-![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
-![Django](https://img.shields.io/badge/-Django-333333?style=flat&logo=django)
-![Entity Framework](https://img.shields.io/badge/-Entity%20Framework-333333?style=flat&logo=entity-framework)
-![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+#### Backend
+![NestJS](https://img.shields.io/badge/-NestJS-0d1117?style=flat-square&logo=nestjs&logoColor=E0234E)
+![Node.js](https://img.shields.io/badge/-Node.js-0d1117?style=flat-square&logo=node.js)
+![Django](https://img.shields.io/badge/-Django-0d1117?style=flat-square&logo=django)
+![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-0d1117?style=flat-square&logo=springboot)
+![Laravel](https://img.shields.io/badge/-Laravel-0d1117?style=flat-square&logo=laravel)
 
-### 🌱 Learning
-![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
-![Laravel](https://img.shields.io/badge/-Laravel-333333?style=flat&logo=laravel)
-![Spring](https://img.shields.io/badge/-Spring-333333?style=flat&logo=spring)
+#### Frontend
+![React](https://img.shields.io/badge/-React-0d1117?style=flat-square&logo=react)
+![Astro](https://img.shields.io/badge/-Astro-0d1117?style=flat-square&logo=astro)
+![Vite](https://img.shields.io/badge/-Vite-0d1117?style=flat-square&logo=vite)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-0d1117?style=flat-square&logo=bootstrap&logoColor=563D7C)
 
-### 📫 Contact Me
+#### Databases
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-0d1117?style=flat-square&logo=postgresql)
+![MySQL](https://img.shields.io/badge/-MySQL-0d1117?style=flat-square&logo=mysql)
+![Redis](https://img.shields.io/badge/-Redis-0d1117?style=flat-square&logo=redis)
+![Prisma](https://img.shields.io/badge/-Prisma-0d1117?style=flat-square&logo=prisma)
+
+#### DevOps & Cloud
+![Docker](https://img.shields.io/badge/-Docker-0d1117?style=flat-square&logo=docker)
+![AWS S3](https://img.shields.io/badge/-AWS%20S3-0d1117?style=flat-square&logo=amazons3)
+![AWS Lightsail](https://img.shields.io/badge/-AWS%20Lightsail-0d1117?style=flat-square&logo=amazonwebservices)
+![Heroku](https://img.shields.io/badge/-Heroku-0d1117?style=flat-square&logo=heroku)
+![Hostinger](https://img.shields.io/badge/-Hostinger-0d1117?style=flat-square&logo=hostinger)
+
+#### Testing & Tools
+![Jest](https://img.shields.io/badge/-Jest-0d1117?style=flat-square&logo=jest)
+![BullMQ](https://img.shields.io/badge/-BullMQ-0d1117?style=flat-square&logo=redis)
+![JWT](https://img.shields.io/badge/-JWT-0d1117?style=flat-square&logo=jsonwebtokens)
+![Git](https://img.shields.io/badge/-Git-0d1117?style=flat-square&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-0d1117?style=flat-square&logo=github)
+![VS Code](https://img.shields.io/badge/-VS%20Code-0d1117?style=flat-square&logo=visualstudiocode&logoColor=007ACC)
+
+---
+
+### 📊 GitHub Stats
+
 <p align="center">
-  <a href="https://www.instagram.com/aezequiel11/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-aezequiel11-blue?style=flat-square&logo=instagram"></a>
-  <a href="mailto:aezequiel56@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-aezequiel56@gmail.com-blue?style=flat-square&logo=gmail"></a>
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img width="84%" src="https://github-profile-trophy.vercel.app/?username=Ezejosue&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="Josué's trophies" />
+  </a>
 </p>
 
-### 📊 GitHub Stats & Trophies
+---
+
+### 📫 Contact Me
+
 <p align="center">
-  <!--- stats (start) -->
-  <table align="center">
-  <tr border="none">
-  <td width="50%" align="center">
-  
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=Ezejosue&theme=dark&show_icons=true&count_private=true" />
-  <br></br>
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Josué's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Ezejosue&theme=dark&hide_border=false" /> 
-  </td>
+  <a href="https://www.ezedeveloper.com/">
+    <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-ezedeveloper.com-0d1117?style=flat-square&logo=firefoxbrowser&logoColor=white">
+  </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/josue-avalos-1504a3150/">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Josué%20Ávalos-0077B5?style=flat-square&logo=linkedin&logoColor=white">
+  </a>
+  &nbsp;
+  <a href="https://www.instagram.com/aezequiel11/">
+    <img alt="Instagram" src="https://img.shields.io/badge/Instagram-@aezequiel11-E4405F?style=flat-square&logo=instagram&logoColor=white">
+  </a>
+  &nbsp;
+  <a href="mailto:aezequiel56@gmail.com">
+    <img alt="Email" src="https://img.shields.io/badge/Email-aezequiel56@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white">
+  </a>
+</p>
 
-  <td width="50%" align="center">
-
-  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Ezejosue&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=7"/>
-  
-  </td>
-  </tr>
-  </table>
-  <!--- stats (end) -->
-
-  <!--- trophy (start) -->
-  <div align=center>
-    <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
-      <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=Ezejosue&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="Josué's trophies" />
-    </a>
-  </div>
-  <!--- trophy (end) -->
-
-</p>        
-
-
-<!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
